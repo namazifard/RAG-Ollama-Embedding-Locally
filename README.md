@@ -1,9 +1,9 @@
 
 # Retrieval Augmented Generation (RAG) System Using Ollama Embedding and "nomic-embed-text" Model
 
-### Streamlit Application for PDF-Based Retrieval-Augmented Generation (RAG) Using Ollama and LangChain
+## Streamlit Application for PDF-Based Retrieval-Augmented Generation (RAG) Using Ollama and LangChain
 
-## Setup Instructions
+### Setup Instructions
 
 1. **Clone the Repository**
 
