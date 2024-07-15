@@ -2,9 +2,6 @@
 
 Streamlit application for PDF-based Retrieval-Augmented Generation (RAG) using Ollama + LangChain.
 
-This application allows users to upload a PDF, process it,
-and then ask questions about the content using a selected language model.
-
 ## Running the Streamlit application
 
 1. **Clone repo**: Run this in your terminal 
@@ -24,4 +21,6 @@ and then ask questions about the content using a selected language model.
 
       ```bash
       streamlit run streamlit_app.py
-      ``` 
+      ```
+
+This application allows users to upload a PDF, process it, and then ask questions about the content using a selected language model.
