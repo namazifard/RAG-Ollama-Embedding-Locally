@@ -188,7 +188,7 @@ def main() -> None:
     This function sets up the user interface, handles file uploads,
     processes user queries, and displays results.
     """
-    st.subheader("🧠 Ollama PDF RAG playground", divider="gray", anchor=False)
+    st.subheader("🧠 PDF RAG System Using Ollama", divider="gray", anchor=False)
 
     models_info = ollama.list()
     available_models = extract_model_names(models_info)
