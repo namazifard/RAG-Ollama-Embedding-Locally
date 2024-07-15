@@ -1,3 +1,1 @@
-# Chat with PDF locally with Ollama demo 
-
-## 
+# Retrieval Augmented Generation (RAG) system using Ollama Embedding; "nomic-embed-text" Model
