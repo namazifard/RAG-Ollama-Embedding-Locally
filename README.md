@@ -27,5 +27,5 @@
    Start the Streamlit application by executing the following command:
 
    ```bash
-   streamlit run streamlit_app.py
+   streamlit run app.py
    ```
