@@ -13,7 +13,7 @@
    git clone https://github.com/namazifard/RAG-Ollama-Embedding-Locally.git
    ```
    ```bash
-   git clone https://github.com/namazifard/RAG-Ollama-Embedding-Locally.git
+   cd RAG-Ollama-Embedding-Locally
    ```
 
 2. **Install Dependencies**
