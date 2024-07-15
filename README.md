@@ -1,24 +1,33 @@
-# Retrieval Augmented Generation (RAG) system using Ollama Embedding; "nomic-embed-text" Model
 
-### Streamlit application for PDF-based Retrieval-Augmented Generation (RAG) using Ollama + LangChain.
+# Retrieval Augmented Generation (RAG) System Using Ollama Embedding and "nomic-embed-text" Model
 
-## Running the Streamlit application
+### Streamlit Application for PDF-Based Retrieval-Augmented Generation (RAG) Using Ollama and LangChain
 
-1. **Clone repo**: Run this in your terminal 
+This repository contains a Streamlit application designed for PDF-based Retrieval-Augmented Generation (RAG) using Ollama and LangChain. Follow the steps below to set up and run the application.
 
-      ```bash
-      git clone https://github.com/namazifard/RAG-Ollama-Embedding-Locally.git
-      cd RAG-Ollama-Embedding-Locally
-      ```
+## Setup Instructions
 
-2. **Install Dependencies**: Execute to install dependencies
-  
-      ```bash
-      pip install -r requirements.txt
-      ```
+1. **Clone the Repository**
 
-3. **Launch the App**: Run to start the Streamlit interface on `localhost`
+   Open your terminal and run the following commands to clone the repository and navigate to the project directory:
 
-      ```bash
-      streamlit run streamlit_app.py
-      ```
+   ```bash
+   git clone https://github.com/namazifard/RAG-Ollama-Embedding-Locally.git
+   cd RAG-Ollama-Embedding-Locally
+   ```
+
+2. **Install Dependencies**
+
+   Install the required dependencies by running the following command:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Launch the Application**
+
+   Start the Streamlit application by executing the following command:
+
+   ```bash
+   streamlit run streamlit_app.py
+   ```
